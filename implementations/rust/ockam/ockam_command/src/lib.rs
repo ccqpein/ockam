@@ -80,7 +80,7 @@ Examples:
     mutually authenticated, secure and private cloud relay – for any application.
 
     First let's enroll with Ockam Orchestrator where we'll create a managed cloud
-    based relay that will move end-to-end encrypted  data between distributed parts
+    based relay that will move end-to-end encrypted data between distributed parts
     of our application.
 
 ```sh
